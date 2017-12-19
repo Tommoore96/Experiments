@@ -1,3 +1,4 @@
 # README #
 
-Test pull and fetch
+
+Editing a tracked file to be reverted.
