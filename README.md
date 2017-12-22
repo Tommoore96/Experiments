@@ -1,3 +1,1 @@
-wordy rm
-
 v wordy
