@@ -1,4 +1,3 @@
-Will this be added with a 'pull --rebase' command?
-YES
+wordy rm
 
-I'm going to add some news here:
+v wordy
