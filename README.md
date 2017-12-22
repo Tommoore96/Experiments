@@ -1,3 +1,3 @@
 # README #
 
-Test pull and fetch
+Will this be added with a 'pull --rebase' command?
